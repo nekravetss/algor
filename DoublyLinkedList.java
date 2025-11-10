@@ -1,9 +1,4 @@
-// DoublyLinkedList.java
-// Реалізація двобічно зв'язного списку з усіма методами з ПР10.
-// Мова: Java 17+
-// Компіляція і запуск демо:
-//   javac DoublyLinkedList.java
-//   java Main
+
 
 import java.util.*;
 
